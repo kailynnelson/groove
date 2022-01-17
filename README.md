@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/kailynnelson/groove) ![GitHub total lines](https://img.shields.io/tokei/lines/github/kailynnelson/groove) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kailynnelson/groove) ![GitHub last commit](https://img.shields.io/github/last-commit/kailynnelson/groove) ![GitHub contributors](https://img.shields.io/github/contributors/kailynnelson/groove)
+
 # groove
 Let this app reorganize a Spotify playlist for you, based on its songs' danceability scores.
 
