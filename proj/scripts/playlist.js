@@ -25,3 +25,5 @@ form.addEventListener('submit', function(event) {
 form.addEventListener('reset', function() {
     document.getElementById('showPlaylist').style.display = 'none';
 });
+
+// next step? https://developer.spotify.com/documentation/general/guides/authorization/implicit-grant/
