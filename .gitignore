@@ -3,3 +3,8 @@
 
 ## node/npm
 node_modules/
+
+# ignore the environment variables set up
+.env
+.env.local
+.env.*.local
